@@ -14,7 +14,10 @@
 </p>
 
 <p align='center'>
-  💻 My PC<br/><br/>
+ 💻 My PC
+</p>
+
+<p align='center'>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
@@ -48,8 +51,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/MichaelKevv/MichaelKevv"></a>
-</p>
-
-<p align='center'>
+  <br/>
   Thank you for visiting!!
 </p>
+
