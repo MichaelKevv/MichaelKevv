@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  I'm a Website and Android Developer from Malang, Indonesia.
+  I'm a Junior Website and Android Developer from Malang, Indonesia.
 </p>
 
 <br/>
