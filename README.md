@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.instagram.com/kevaudrrr/">
+  <a href="https://www.instagram.com/kevnay_/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/kevaudr/">
@@ -50,8 +50,8 @@
 <br/>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/MichaelKevv/MichaelKevv"></a>
-  <br/>
+<!--   <a href="#"><img src="https://badges.pufler.dev/visits/MichaelKevv/MichaelKevv"></a> -->
+<!--   <br/> -->
   Thank you for visiting!!
 </p>
 
