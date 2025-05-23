@@ -36,16 +36,6 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-:tv: My Streaming Platform
-</p>
-
-<p align='center'>
-  <a href="https://www.youtube.com/channel/UCTCNquk_O85smB77tzB9fyQ">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=whitee" />        
-  </a>
-</p>
-
 <br/>
 
 <p align='center'>
