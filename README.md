@@ -1,12 +1,14 @@
 # 💫 About Me:
-👋 Hello I'm Michael Kevin Adinata
-👤 I'm a Junior Website and Android Developer from Malang, Indonesia.
-🔭 I’m currently working on PT. Cubiconia Kanaya Pratama
+👋 Hello I'm Michael Kevin Adinata </br>
+👤 I'm a Junior Website and Android Developer from Malang, Indonesia. </br>
+🔭 I’m currently working on PT. Cubiconia Kanaya Pratama </br>
 
 ## 💻 My PC:
-<img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/intel-core%20i5%206th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+<p align='left'>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%206th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevnay_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelkevinadinata) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kevnayy_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinadinata08@gmail.com) 
